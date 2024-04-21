@@ -9,5 +9,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 - [2024-03-23] Create 'anfri view rent <anfri-id>' command
-- [2024-03-23] Create `anfri view rent <anfri-id>` command
 - [2024-03-23] Initial Files

@@ -3,7 +3,16 @@
     "plugins": [
         "cli",
         "http-proxies",
-        "web3"
+        "web3",
+        "cli"
     ],
-    "options": {}
+    "options": {
+        "type": "ts",
+        "plugins": [
+            "cli",
+            "http-proxies",
+            "web3"
+        ],
+        "options": {}
+    }
 }

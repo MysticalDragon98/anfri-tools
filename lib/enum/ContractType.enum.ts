@@ -1,3 +1,6 @@
 export enum ContractType {
-    Rental = "rental"
+    Rental = "rental",
+    Orbs = "orbs",
+    Currency = "currency",
+    Templates = "templates",
 }
