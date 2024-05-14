@@ -8,7 +8,9 @@ async function main () {
     ]);
 
     //* Post Main
-    await initCLI({});
+    await initCLI({
+        boolean: ["json"]
+    });
 }
 
 main().catch(console.error).finally(() => {

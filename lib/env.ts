@@ -13,4 +13,5 @@ export const $ETH_PRIVKEY = process.env.ETH_PRIVKEY;
 ok(process.env.ETH_ADDRESS, 'Missing required environment variable: ETH_ADDRESS');
 export const $ETH_ADDRESS = process.env.ETH_ADDRESS;
 ok(process.env.BLOCKCHAIN_HOST, 'Missing required environment variable: BLOCKCHAIN_HOST');
-export const $BLOCKCHAIN_HOST = process.env.BLOCKCHAIN_HOST;
+export const $BLOCKCHAIN_HOST = process.env.BLOCKCHAIN_HOST;export const $GAS_PRICE = process.env.GAS_PRICE;
+export const $TEMPLATES_ADDRESS = process.env.TEMPLATES_ADDRESS;
